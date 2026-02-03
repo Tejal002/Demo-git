@@ -1,1 +1,2 @@
 lorem qwert zxcvb asdfg qwertss
+.env file added
